@@ -1,4 +1,4 @@
-# youtube-spam-check
+# Youtube Spam Check/Delete โฆษณาเว็ปพนัน
 
 pip3 install transformers torch requests beautifulsoup4
 
