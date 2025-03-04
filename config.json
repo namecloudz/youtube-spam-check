@@ -1,0 +1,34 @@
+{
+  "youtube_api_keys": {
+    "default": "AIzaSyAKcxbEE8Ta_y3tthEwtYrhLxQNRyBQxx0"
+  },
+  "current_youtube_key": "default",
+  "ai_providers": {
+    "openai": {
+      "api_key": "",
+      "model": "gpt-3.5-turbo"
+    },
+    "deepseek": {
+      "api_key": "",
+      "model": "deepseek-chat"
+    },
+    "grok": {
+      "api_key": "",
+      "model": "grok-2"
+    },
+    "lmstudio": {
+      "name": "lmstudio",
+      "host": "localhost",
+      "port": "1234",
+      "url": "http://localhost:1234/v1/chat/completions"
+    },
+    "ollama": {
+      "name": "ollama",
+      "host": "localhost",
+      "port": "11434",
+      "model": "mistral",
+      "url": "http://localhost:11434/api/chat"
+    }
+  },
+  "current_provider": "lmstudio"
+}
