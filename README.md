@@ -1,4 +1,7 @@
 # youtube-spam-check
+
+pip3 install transformers torch requests beautifulsoup4
+
 เอาไว้ตรวจสอบและลบ comment spam เว็ปพนันใน youtube comment โดยใช้ AI และ Pattern
 
 รองรับ Youtube API Key V3 แบบ หลายอัน กรณีบางคนมีหลาย Account
