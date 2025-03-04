@@ -22,7 +22,7 @@ def get_api_key():
         choice = input("\nเลือกตัวเลือก (1-2): ")
         
         if choice == '1':
-            api_key = "AIzaSyAKcxbEE8Ta_y3tthEwtYrhLxQNRyBQxx0"
+            api_key = ""
             print("ใช้ API Key เริ่มต้น")
         else:
             api_key = getpass.getpass("กรุณาใส่ API Key ของคุณ: ")
