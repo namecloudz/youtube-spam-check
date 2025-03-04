@@ -1,6 +1,6 @@
 {
   "youtube_api_keys": {
-    "default": "AIzaSyAKcxbEE8Ta_y3tthEwtYrhLxQNRyBQxx0"
+    "default": ""
   },
   "current_youtube_key": "default",
   "ai_providers": {
