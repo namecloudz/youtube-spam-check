@@ -16,7 +16,7 @@ def get_api_key():
     if not api_key:
         # ถ้าไม่มีใน environment variable ให้ถามผู้ใช้
         print("\n=== YouTube API Key ===")
-        print("1. ใช้ API Key เริ่มต้น (AIzaSyAKcxbEE8Ta_y3tthEwtYrhLxQNRyBQxx0)")
+        print("1. ใช้ API Key เริ่มต้น")
         print("2. ใส่ API Key ของตัวเอง")
         
         choice = input("\nเลือกตัวเลือก (1-2): ")
