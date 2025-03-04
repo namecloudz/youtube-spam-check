@@ -18,6 +18,6 @@ pip3 install transformers torch requests beautifulsoup4
 
 การทำงาน Pattern จะเป็นตัวให้ Score ก่อน ถ้าติด Pattern จะใช้ AI ช่วยวิเคราะห์และให้ Score ตาม
 
-(การทำงานไม่ได้แม่น 100% ขึ้นอยู่กับ AI ที่เลือกใช้งานด้วยนะครับ)
+(การทำงานไม่ได้แม่น 100% ขึ้นอยู่กับ AI ที่เลือกใช้งานด้วยนะครับและแก้ไข Pattern เองได้เลย)
 
 มีปัญหาการใช้งาน หรือจะให้แก้ไขอะไร name@programmer.in.th | Telegram @nnnntx
